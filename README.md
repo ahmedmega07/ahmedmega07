@@ -1,5 +1,9 @@
-<a href="https://komarev.com/ghpvc/?username=ahmedmega07&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=ahmedmega07&style=for-the-badge">
+<div align="right">
+    <a href="https://komarev.com/ghpvc/?username=ahmedmega07&style=for-the-badge">
+        <img src="https://komarev.com/ghpvc/?username=ahmedmega07&style=for-the-badge">
+    </a>
+</div>
+
 </a>
 
 <h1 align="center">
