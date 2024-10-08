@@ -69,18 +69,6 @@
 
 <hr/>
 
-<h2 align="center">🌟 Projects 🌟</h2>
-
-<div align="center">
-  <ul>
-    <li><a href="https://github.com/ahmedmega07/e-commerce-mvc">E-Commerce MVC</a></li>
-    <li><a href="https://github.com/ahmedmega07/restful-api-project">RESTful API Project</a></li>
-    <li><a href="https://github.com/ahmedmega07/game-zone">Game Zone</a></li>
-  </ul>
-</div>
-
-<hr/>
-
 <h2 align="center">💬 Get in Touch! 💬</h2>
 
 <div align="center">
