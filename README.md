@@ -44,7 +44,6 @@
 <hr/>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-### Languages and Tools
 <table align="center">
   <tr>
     <td align="center" width="96">
