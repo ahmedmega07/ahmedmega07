@@ -99,13 +99,16 @@
 
 <h2 align="center">🔥 My Stats 🔥</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedmega07&show_icons=true&theme=radical&count_private=true" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedmega07&theme=radical" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmega07&layout=compact&theme=radical" />
-</div>
+<h1 align="center">GitHub Stats</h1>
+<p align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmega07&show_icons=true&layout=compact&theme=radical" alt="ahmedmega07" />
+  <img align="right" width="48%" src="https://github-readme-stats.vercel.app/api?username=ahmedmega07&show_icons=true&theme=radical&count_private=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedmega07&theme=radical" alt="Streak Stats" />
+</p>
+
+
 
 <hr/>
 
