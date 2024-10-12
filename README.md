@@ -45,15 +45,61 @@
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
-<div align="center">
-    <div>
-        <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,visualstudio" />
-    </div>
-    <br>
-    <div>
-        <img src="https://skillicons.dev/icons?i=cpp,cs,mysql,javascript,dotnet" />
-    </div>
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C#
+    </td>
+    <td align="center" width="96"> 
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+    <br>MySQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" />
+      <br>.NET
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+        <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VSCode" width="65" height="65" />
+      <br>VSCode
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+        <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="65" height="65" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+        <img src="https://img.icons8.com/color/48/000000/visual-studio.png" alt="Visual Studio" width="65" height="65" />
+      <br>Visual Studio
+    </td>
+  </tr>
+</table>
+
 
 <hr/>
 
