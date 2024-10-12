@@ -44,94 +44,61 @@
 <hr/>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-
-<style>
-  table {
-    margin: auto;
-    border-collapse: collapse;
-    padding: 20px;
-    background-color: #f9f9f9;
-    border-radius: 10px;
-    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
-  }
-  td {
-    border: 1px solid #ddd;
-    border-radius: 10px;
-    padding: 10px;
-    text-align: center;
-    transition: transform 0.2s;
-  }
-  td:hover {
-    transform: scale(1.1);
-    background-color: #efefef;
-  }
-  img {
-    margin-bottom: 5px;
-  }
-  h3 {
-    text-align: center;
-    color: #333;
-  }
-</style>
-
-<h3>Languages and Tools</h3>
-<table>
+### Languages and Tools
+<table align="center">
   <tr>
-    <td width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
       <br>C++
     </td>
-    <td width="96">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65" />
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
       <br>C#
     </td>
-    <td width="96"> 
+    <td align="center" width="96"> 
         <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-      <br>MySQL
+    <br>MySQL
     </td>
-    <td width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
       <br>JavaScript
     </td>
-    <td width="96">
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" />
       <br>.NET
     </td>
   </tr>
   <tr>
-    <td width="96">
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
       <br>Bootstrap
     </td>
-    <td width="96">
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
       <br>HTML5
     </td>
-    <td width="96">
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
       <br>CSS
     </td>
-    <td width="96">
+    <td align="center" width="96">
         <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VSCode" width="65" height="65" />
       <br>VSCode
     </td>
-    <td width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
       <br>GitHub
     </td>
-    <td width="96">
+    <td align="center" width="96">
         <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="65" height="65" />
       <br>Git
     </td>
-    <td width="96">
+    <td align="center" width="96">
         <img src="https://img.icons8.com/color/48/000000/visual-studio.png" alt="Visual Studio" width="65" height="65" />
       <br>Visual Studio
     </td>
   </tr>
 </table>
-
-
-<hr/>
 
 <h2 align="center">🔥 My Stats 🔥</h2>
 
