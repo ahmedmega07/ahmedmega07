@@ -100,7 +100,6 @@
 <h2 align="center">🔥 My Stats 🔥</h2>
 
 <div align="center">
-  <h1>GitHub Stats</h1>
   <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmega07&show_icons=true&layout=compact&theme=radical" alt="ahmedmega07" />
     <img align="right" width="48%" src="https://github-readme-stats.vercel.app/api?username=ahmedmega07&show_icons=true&theme=radical&count_private=true" />
