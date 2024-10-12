@@ -76,13 +76,6 @@
         <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VSCode" width="65" height="65" />
       <br>VSCode
     </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
-      <br>GitHub
-    </td>
-    <td align="center" width="96">
-        <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="65" height="65" />
-      <br>Git
     </td>
     <td align="center" width="96">
         <img src="https://img.icons8.com/color/48/000000/visual-studio.png" alt="Visual Studio" width="65" height="65" />
