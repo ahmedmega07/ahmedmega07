@@ -18,12 +18,6 @@
 </div>
 
 <div align="center">
-  <a href="mailto:ahmed.magdy2755@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/ahmed-ams/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
   <a href="https://github.com/ahmedmega07" target="_blank">
      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -99,12 +93,9 @@
 
 <h2 align="center">🔥 My Stats 🔥</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedmega07&show_icons=true&theme=radical&count_private=true" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedmega07&theme=radical" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmega07&layout=compact&theme=radical" />
+<div align="center" style="display: flex; justify-content: center; align-items: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=ahmedmega07&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&bg_color=0,ffb400,ffb400,F6C03D,F4DDA6&count_private=true&theme=graywhite" alt="ahmedmega07" height="130px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmega07&layout=compact&show_icons=true&bg_color=0,EFE4CA,F4DDA6,F6C03D&theme=graywhite&hide_title=true" alt="ahmedmega07"/>
 </div>
 
 
@@ -113,8 +104,6 @@
 <h2 align="center">💬 Get in Touch! 💬</h2>
 
 <div align="center">
-  <p>Feel free to reach out through any of the platforms below!</p>
-  <div>
     <a href="mailto:ahmed.magdy2755@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
