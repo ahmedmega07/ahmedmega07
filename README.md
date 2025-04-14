@@ -83,8 +83,9 @@
 <h2 align="center">🔥 My Stats 🔥</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedmega07&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&bg_color=0,ffb400,ffb400,F6C03D,F4DDA6&count_private=true&theme=graywhite" alt="GitHub Stats" height="130px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmega07&layout=compact&show_icons=true&bg_color=0,EFE4CA,F4DDA6,F6C03D&theme=graywhite&hide_title=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedmega07&show_icons=true&include_all_commits=true&count_private=true&theme=graywhite&bg_color=0,ffb400,F6C03D,F4DDA6&hide_title=true" alt="GitHub Stats" height="170px" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmega07&layout=compact&theme=graywhite&bg_color=0,F4DDA6,F6C03D&hide_title=true" alt="Top Languages" height="170px" />
 </div>
 
 <hr/>
