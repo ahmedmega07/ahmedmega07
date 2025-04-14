@@ -48,7 +48,27 @@
         <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
       <br>C#
 </td>
-
+ </td>
+     <td align="center" width="96">
+         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+       <br>JavaScript
+     </td>
+     <td align="center" width="96">
+         <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" />
+       <br>.NET
+     </td>
+     <td align="center" width="96">
+         <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
+       <br>Bootstrap
+     </td>
+     <td align="center" width="96">
+         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+       <br>HTML5
+     </td>
+     <td align="center" width="96">
+         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+       <br>CSS
+     </td>
 </td>
 
 </td>
